@@ -1,2 +1,2 @@
 # stark_t_midterm
-Cat Things Done
+Dog Things Done
